@@ -1,7 +1,7 @@
 # POFHP
 Code for AAAI 2025 paper --- **P**ublic **O**pinion **F**ield Effect and **H**awkes **P**rocess Join Hands for Information Popularity Prediction.
 
-**Attention: This repo based on a copy of `ki-ljl`'s [repo](https://github.com/ki-ljl/POFHP.git).**
+**<span style="color: red;">Attention: This repo based on a copy of `ki-ljl`'s [repo](https://github.com/ki-ljl/POFHP.git).</span>**
 
 # Overview
 ```bash
